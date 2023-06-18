@@ -1,7 +1,5 @@
 # Synapse X Drawing Library Remake
 
-Got it, here are your updated usage instructions as a README.md file:
-
 # Usage
 You can use our drawing library like this.
 
